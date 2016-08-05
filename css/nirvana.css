@@ -17,7 +17,7 @@ ul{
   background-color: black;
   height: 58px;
   margin-left: 230px;
-  text-shadow: 2px 2px 0 #eee
+  text-shadow: 2px 0.5px #A6B0AF;
 }
  .header .nav{
    float: left;
@@ -377,3 +377,23 @@ span {
   color: yellow;
 }
 /*-------------------------ALL OF THE CSS CONTENT APPLY------------------*/
+
+.about_nirvana img{
+  width: 113vh;
+  opacity: 0.5;
+  margin-left: 23%;
+  margin-top: 17%;
+}
+.about_nirvana p{
+  font-size: 20px;
+  color: #EEF2EE;
+  margin-left: 484px;
+  position: absolute;
+  top: 14px;
+  width: 54%;
+  margin-top: 19%;
+  font-family: 'Abril Fatface', cursive;
+  opacity: 0.75;
+
+
+}
